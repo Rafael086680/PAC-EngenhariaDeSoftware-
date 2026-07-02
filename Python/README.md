@@ -1,9 +1,9 @@
 
-# 📘 PAC - Python
+# PAC - Python
 
 Repository dedicated to Python workshop activities developed during college PAC classes.
 
-## 📚 Content
+## Content
 
 - Python Introduction
 - Variables
@@ -20,7 +20,7 @@ Repository dedicated to Python workshop activities developed during college PAC 
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Python 3
 - PyCharm
@@ -28,7 +28,7 @@ Repository dedicated to Python workshop activities developed during college PAC 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 📁 PAC-Python
@@ -48,6 +48,6 @@ Repository dedicated to Python workshop activities developed during college PAC 
 
 ---
 
-## ▶️ Objective
+## Objective
 
 Practice Python fundamentals through simple and practical examples.
