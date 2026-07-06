@@ -31,7 +31,7 @@ Repository dedicated to Python workshop activities developed during college PAC 
 ## Repository Structure
 
 ```bash
-📁 PAC-Python
+PAC-Python
  ├── 01_hello_world.py
  ├── 02_variables.py
  ├── 03_conditionals.py
