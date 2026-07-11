@@ -20,9 +20,6 @@ Exemplo:
 PAC/
 │
 ├── Oficina-Python/
-├── Oficina-C/
-├── Oficina-Web/
-├── Projetos/
 └── README.md
 
 ## Tecnologias Utilizadas
