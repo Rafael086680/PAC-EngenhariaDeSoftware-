@@ -1,4 +1,4 @@
-# PAC — Projetos, Atividades e Oficinas
+# PAC - Projetos, Atividades e Oficinas
 
 Repositório destinado ao armazenamento das oficinas, atividades práticas, projetos e conteúdos desenvolvidos durante minha trajetória acadêmica na faculdade.
 
